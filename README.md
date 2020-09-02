@@ -1,0 +1,2 @@
+# BrainGraph
+Arduino EEG Visualization
