@@ -10,7 +10,7 @@ This project was created using an Arduino UNO, a modified MindFlex EEG Headset, 
 
 The BrainGraph library itself does not rely on any additional libraries, however, the example Arduino file has a couple different library dependencies in order to function.
 
-# Dependencies:
+### Dependencies:
 
 
 
