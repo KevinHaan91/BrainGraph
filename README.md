@@ -1,4 +1,4 @@
-## Brain Graph
+# Brain Graph
 
 #### Overview
 
